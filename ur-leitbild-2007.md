@@ -5,7 +5,7 @@
 
 Die Universität Regensburg vertritt den universitären Gedanken der Einheit von Forschung und Lehre. Nur so gewinnt Wissenschaft ihre Eigendynamik und kann sich selbstkritisch überprüfen und erneuern.
 
-Die Universität Regensburg gewährleistet die Freiheit von Forschung und Lehre. Wissenschaftliche Arbeit muss unabhängig von externen Zwängen und ideologischen Einflussnahmen sein. Dies umfasst die Freiheit des Forschers[^1](#fnote1), den Gegenstand und die Methode der Forschung selbst zu wählen, die Freiheit des Lehrenden, die Lehrinhalte zu bestimmen, und die Freiheit des Studierenden, über die Studienwahl selbst zu entscheiden.
+Die Universität Regensburg gewährleistet die Freiheit von Forschung und Lehre. Wissenschaftliche Arbeit muss unabhängig von externen Zwängen und ideologischen Einflussnahmen sein. Dies umfasst die Freiheit des Forschers[1](#fnote1), den Gegenstand und die Methode der Forschung selbst zu wählen, die Freiheit des Lehrenden, die Lehrinhalte zu bestimmen, und die Freiheit des Studierenden, über die Studienwahl selbst zu entscheiden.
 
 Die Universität Regensburg nimmt in Forschung und Lehre ihre gesellschaftliche und ethische Verantwortung wahr. Sie ist der Würde des Menschen und der Schutzbedürftigkeit der Natur verpflichtet. Wissenschaft ist unverzichtbar für die Entwicklung aller gesellschaftlichen Bereiche. Die Universität greift daher gesellschaftliche Fragen auf und trägt zu ihrer Lösung bei. Akademische Bildung formt den ganzen Menschen. Die Universität sieht ihre Aufgabe deshalb in der Heranbildung eines qualifizierten und verantwortungsbewussten akademischen Nachwuchses.
 
